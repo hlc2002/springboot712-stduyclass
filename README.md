@@ -1,0 +1,2 @@
+# springboot712-stduyclass
+这是一款利用springboot结合云平台SDK实现控制硬件设备的小程序demo
